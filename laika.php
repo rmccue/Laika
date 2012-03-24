@@ -2,7 +2,7 @@
 /*
 Plugin Name: Laika
 Description: An example plugin to show how to use the Sputnik API
-Version: 1.1
+Version: 1.2
 Author: Ryan McCue
 Author URI: http://ryanmccue.info/
 Sputnik ID: laika
@@ -15,7 +15,7 @@ class Laika {
 	}
 
 	public static function report_error() {
-		echo '<div class="error"><p>Please install &amp; activate Sputnik to enable Laika.</p></div>';
+		echo '<div class="error"><p>Please install &amp; activate Renku to enable Laika.</p></div>';
 	}
 
 	public static function bootstrap() {

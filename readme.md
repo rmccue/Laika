@@ -3,7 +3,7 @@ Contributors: rmccue
 Tags: laika, sputnik, example, test  
 Requires at least: 3.2  
 Tested up to: 3.4  
-Stable tag: 1.1  
+Stable tag: 1.2  
 
 Laika is a test plugin to show you how to use Sputnik's API.
 
@@ -26,6 +26,16 @@ None yet!
 
 == Changelog ==
 
-= 0.1 =
+= 1.2 =
+
+* Use proper name instead of internal name
+
+
+= 1.1 =
+
+* Fix spelling error
+
+
+= 1.0 =
 
 * Create plugin

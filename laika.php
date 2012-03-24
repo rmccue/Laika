@@ -2,9 +2,10 @@
 /*
 Plugin Name: Laika
 Description: An example plugin to show how to use the Sputnik API
-Version: 1.0
+Version: 1.1
 Author: Ryan McCue
 Author URI: http://ryanmccue.info/
+Sputnik ID: laika
 */
 
 class Laika {

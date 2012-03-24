@@ -3,7 +3,7 @@ Contributors: rmccue
 Tags: laika, sputnik, example, test  
 Requires at least: 3.2  
 Tested up to: 3.4  
-Stable tag: 0.1  
+Stable tag: 1.1  
 
 Laika is a test plugin to show you how to use Sputnik's API.
 
@@ -11,7 +11,7 @@ Laika is a test plugin to show you how to use Sputnik's API.
 
 Laika is a test plugin to show you how to use Sputnik's API.
 
-Laika is dedicated to the first dog in space, who gave her life to for
+Laika is dedicated to the first dog in space, who gave her life for
 the advancement of the human race.
 
 == Installation ==

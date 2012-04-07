@@ -24,6 +24,11 @@ the advancement of the human race.
 
 None yet!
 
+== Screenshots ==
+
+1. Laika adds a simple dedication to your admin's footer
+2. Laika is part of the App Store!
+
 == Changelog ==
 
 = 1.2 =
